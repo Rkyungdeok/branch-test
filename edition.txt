@@ -2,4 +2,4 @@ frist edition
 second one
 THIRD ONE
 issue find
-hotfix MY SOLUTION
+Hotfix TEAM'S SOLUTION
